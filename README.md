@@ -32,7 +32,7 @@ $khokan = [
     'specialty'   => ['WordPress', 'WooCommerce', 'PHP Plugins'],
     'passion'     => ['📸 Photography', '☕ Coffee', '⚡ Clean Code'],
     'motto'       => 'Eat · Sleep · <Code> · Repeat',
-    'open_to'     => 'Collaboration & freelance WooCommerce work',
+    'open_to'     => 'Collaboration & freelance WordPress & WooCommerce work',
 ];
 ```
 
